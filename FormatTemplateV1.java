@@ -48,6 +48,7 @@ public class FormatTemplateV1
     
     // *** closing message ***
     
+        System.out.println();
         System.out.println("end of program");
         
     } // end main

@@ -10,7 +10,7 @@
 // *** import libraries ***
 import java.util.Scanner;
 
-public class CS20SUsingTheTemplare
+public class CS20SUsingTheTemplate
 {
     public static void main(String[] args){
     // *** constants ***
